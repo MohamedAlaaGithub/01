@@ -1,0 +1,9 @@
+room_id,room_name,before_kwh,after_kwh,saved_kwh
+R01,Open Office,143.0,125.0,18.0
+R02,Meeting Room,28.8,24.6,4.2
+R03,Manager Office,29.6,25.12,4.48
+R04,Server Room,316.8,292.8,24.0
+R05,Lecture Hall,131.2,112.0,19.2
+R06,Computer Lab,132.3,119.7,12.6
+R07,Library,185.0,157.0,28.0
+R08,Cafeteria,84.0,75.6,8.4

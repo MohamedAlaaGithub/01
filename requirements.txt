@@ -1,0 +1,5 @@
+pandas
+numpy
+matplotlib
+# only needed to open analysis_notebook.ipynb:
+notebook

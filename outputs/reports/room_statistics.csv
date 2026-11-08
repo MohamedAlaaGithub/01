@@ -1,0 +1,9 @@
+room_name,mean,std,cv_percent
+Cafeteria,56.94,9.59,16.85
+Computer Lab,86.15,21.27,24.7
+Lecture Hall,81.8,21.32,26.06
+Library,126.66,15.08,11.91
+Manager Office,18.18,4.75,26.1
+Meeting Room,17.95,4.67,26.02
+Open Office,90.83,23.36,25.72
+Server Room,238.83,13.83,5.79

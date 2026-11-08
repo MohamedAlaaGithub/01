@@ -1,0 +1,489 @@
+room_id,date,actual_kwh,month,room_name,building,area_m2,lighting_kw,ac_kw,equipment_kw,hours_per_day
+R01,2026-08-01,59.1,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-08-02,61.95,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-08-03,112.76,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-08-04,117.46,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-08-05,107.23,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-08-06,108.86,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-08-07,113.97,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-08-08,62.35,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-08-09,64.04,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-08-10,113.25,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-08-11,115.72,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-08-12,116.22,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-08-13,115.99,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-08-14,113.77,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-08-15,60.0,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-08-16,62.78,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-08-17,107.34,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-08-18,116.88,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-08-19,111.92,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-08-20,116.85,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-08-21,115.1,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-08-22,63.26,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-08-23,59.78,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-08-24,109.24,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-08-25,119.08,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-08-26,118.4,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-08-27,116.72,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-08-28,119.35,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-08-29,62.03,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-08-30,58.78,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-08-31,110.44,2026-08,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-09-01,96.7,2026-09,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-09-02,93.64,2026-09,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-09-03,95.55,2026-09,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-09-04,100.38,2026-09,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-09-05,54.11,2026-09,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-09-06,53.31,2026-09,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-09-07,90.56,2026-09,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-09-08,98.47,2026-09,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-09-09,94.47,2026-09,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-09-10,95.14,2026-09,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-09-11,94.87,2026-09,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-09-12,53.37,2026-09,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-09-13,52.81,2026-09,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-09-14,91.62,2026-09,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-09-15,96.11,2026-09,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-09-16,98.92,2026-09,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-09-17,97.19,2026-09,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-09-18,95.94,2026-09,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-09-19,55.46,2026-09,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-09-20,51.29,2026-09,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-09-21,95.12,2026-09,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-09-22,100.95,2026-09,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-09-23,95.8,2026-09,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-09-24,96.25,2026-09,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-09-25,90.57,2026-09,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-09-26,51.08,2026-09,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-09-27,50.47,2026-09,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-09-28,90.84,2026-09,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-09-29,98.4,2026-09,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R01,2026-09-30,100.5,2026-09,Open Office,Admin Block,120,1.8,9.0,3.5,10
+R02,2026-08-01,11.78,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-08-02,12.56,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-08-03,22.42,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-08-04,22.45,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-08-05,21.77,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-08-06,23.54,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-08-07,22.84,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-08-08,12.31,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-08-09,12.33,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-08-10,23.66,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-08-11,23.82,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-08-12,22.62,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-08-13,22.66,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-08-14,22.96,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-08-15,12.09,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-08-16,12.82,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-08-17,22.51,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-08-18,22.44,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-08-19,23.54,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-08-20,22.32,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-08-21,21.94,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-08-22,12.03,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-08-23,11.68,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-08-24,22.92,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-08-25,22.76,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-08-26,22.39,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-08-27,22.56,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-08-28,22.47,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-08-29,13.0,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-08-30,12.02,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-08-31,22.46,2026-08,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-09-01,18.66,2026-09,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-09-02,19.37,2026-09,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-09-03,19.32,2026-09,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-09-04,18.77,2026-09,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-09-05,10.75,2026-09,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-09-06,10.66,2026-09,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-09-07,18.23,2026-09,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-09-08,19.57,2026-09,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-09-09,17.74,2026-09,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-09-10,19.06,2026-09,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-09-11,19.27,2026-09,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-09-12,10.27,2026-09,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-09-13,10.19,2026-09,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-09-14,19.68,2026-09,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-09-15,19.68,2026-09,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-09-16,19.4,2026-09,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-09-17,18.59,2026-09,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-09-18,17.66,2026-09,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-09-19,9.96,2026-09,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-09-20,10.25,2026-09,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-09-21,17.73,2026-09,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-09-22,19.19,2026-09,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-09-23,18.44,2026-09,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-09-24,18.52,2026-09,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-09-25,17.55,2026-09,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-09-26,9.64,2026-09,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-09-27,10.35,2026-09,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-09-28,19.6,2026-09,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-09-29,17.7,2026-09,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R02,2026-09-30,19.29,2026-09,Meeting Room,Admin Block,35,0.5,3.5,0.8,6
+R03,2026-08-01,12.28,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-08-02,12.85,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-08-03,23.72,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-08-04,24.28,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-08-05,23.49,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-08-06,23.4,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-08-07,22.07,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-08-08,12.38,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-08-09,12.79,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-08-10,23.77,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-08-11,24.27,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-08-12,23.0,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-08-13,23.63,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-08-14,22.02,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-08-15,12.24,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-08-16,12.8,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-08-17,24.29,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-08-18,24.06,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-08-19,23.04,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-08-20,21.88,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-08-21,23.49,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-08-22,13.32,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-08-23,13.09,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-08-24,24.17,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-08-25,22.49,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-08-26,22.78,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-08-27,23.87,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-08-28,23.08,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-08-29,12.2,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-08-30,11.92,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-08-31,21.94,2026-08,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-09-01,19.78,2026-09,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-09-02,17.88,2026-09,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-09-03,18.56,2026-09,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-09-04,18.57,2026-09,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-09-05,10.73,2026-09,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-09-06,9.8,2026-09,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-09-07,18.93,2026-09,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-09-08,18.51,2026-09,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-09-09,18.46,2026-09,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-09-10,18.51,2026-09,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-09-11,18.04,2026-09,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-09-12,10.96,2026-09,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-09-13,10.49,2026-09,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-09-14,19.59,2026-09,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-09-15,18.12,2026-09,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-09-16,18.95,2026-09,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-09-17,18.75,2026-09,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-09-18,18.53,2026-09,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-09-19,10.52,2026-09,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-09-20,10.62,2026-09,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-09-21,17.93,2026-09,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-09-22,18.67,2026-09,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-09-23,18.21,2026-09,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-09-24,19.86,2026-09,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-09-25,17.87,2026-09,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-09-26,10.45,2026-09,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-09-27,10.82,2026-09,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-09-28,18.79,2026-09,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-09-29,19.48,2026-09,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R03,2026-09-30,18.2,2026-09,Manager Office,Admin Block,28,0.3,2.8,0.6,8
+R04,2026-08-01,255.43,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-08-02,260.41,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-08-03,238.03,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-08-04,250.01,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-08-05,257.65,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-08-06,249.62,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-08-07,262.77,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-08-08,238.97,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-08-09,259.41,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-08-10,245.83,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-08-11,246.89,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-08-12,246.55,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-08-13,236.52,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-08-14,243.29,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-08-15,244.46,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-08-16,242.05,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-08-17,249.05,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-08-18,257.5,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-08-19,246.6,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-08-20,248.15,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-08-21,243.91,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-08-22,238.83466666666666,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-08-23,237.76,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-08-24,257.99,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-08-25,257.99,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-08-26,258.57,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-08-27,259.52,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-08-28,241.09,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-08-29,262.68,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-08-30,260.44,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-08-31,253.47,2026-08,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-09-01,224.53,2026-09,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-09-02,234.76,2026-09,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-09-03,236.56,2026-09,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-09-04,231.68,2026-09,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-09-05,239.61,2026-09,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-09-06,223.01,2026-09,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-09-07,217.69,2026-09,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-09-08,228.73,2026-09,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-09-09,229.01,2026-09,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-09-10,228.09,2026-09,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-09-11,216.41,2026-09,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-09-12,232.93,2026-09,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-09-13,228.56,2026-09,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-09-14,228.89,2026-09,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-09-15,219.26,2026-09,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-09-16,221.45,2026-09,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-09-17,220.72,2026-09,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-09-18,228.56,2026-09,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-09-19,216.18,2026-09,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-09-20,220.6,2026-09,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-09-21,239.43,2026-09,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-09-22,218.08,2026-09,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-09-23,232.07,2026-09,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-09-24,234.1,2026-09,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-09-25,233.1,2026-09,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-09-26,218.47,2026-09,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-09-27,230.58,2026-09,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-09-28,227.22,2026-09,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-09-29,220.96,2026-09,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R04,2026-09-30,236.23,2026-09,Server Room,Admin Block,20,0.2,5.0,8.0,24
+R05,2026-08-01,55.25,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-08-02,55.41,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-08-03,100.08,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-08-04,97.64,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-08-05,101.95,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-08-06,107.96,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-08-07,106.46,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-08-08,56.09,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-08-09,53.38,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-08-10,98.05,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-08-11,97.14,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-08-12,98.38,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-08-13,105.34,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-08-14,103.99,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-08-15,59.64,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-08-16,55.65,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-08-17,106.5,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-08-18,104.37,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-08-19,104.95,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-08-20,104.46,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-08-21,108.29,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-08-22,55.42,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-08-23,54.74,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-08-24,102.58,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-08-25,108.96,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-08-26,107.72,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-08-27,105.35,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-08-28,107.51,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-08-29,57.91,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-08-30,59.55,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-08-31,101.67,2026-08,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-09-01,89.96,2026-09,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-09-02,83.9,2026-09,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-09-03,87.79,2026-09,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-09-04,84.73,2026-09,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-09-05,44.27,2026-09,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-09-06,48.06,2026-09,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-09-07,83.22,2026-09,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-09-08,90.07,2026-09,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-09-09,88.45,2026-09,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-09-10,81.51,2026-09,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-09-11,88.12,2026-09,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-09-12,45.94,2026-09,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-09-13,49.23,2026-09,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-09-14,85.81,2026-09,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-09-15,83.76,2026-09,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-09-16,86.0,2026-09,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-09-17,87.65,2026-09,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-09-18,81.41,2026-09,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-09-19,47.63,2026-09,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-09-20,44.81,2026-09,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-09-21,81.54,2026-09,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-09-22,83.88,2026-09,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-09-23,86.89,2026-09,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-09-24,86.97,2026-09,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-09-25,80.55,2026-09,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-09-26,47.4,2026-09,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-09-27,46.15,2026-09,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-09-28,84.19,2026-09,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-09-29,82.71,2026-09,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R05,2026-09-30,84.57,2026-09,Lecture Hall,Academic Block,150,2.4,12.0,2.0,8
+R06,2026-08-01,55.49,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-08-02,54.84,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-08-03,104.94,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-08-04,106.42,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-08-05,109.85,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-08-06,106.7,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-08-07,103.11,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-08-08,55.73,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-08-09,54.99,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-08-10,98.43,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-08-11,101.6,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-08-12,104.13,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-08-13,101.44,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-08-14,102.08,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-08-15,60.48,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-08-16,58.07,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-08-17,108.65,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-08-18,105.06,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-08-19,106.28,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-08-20,110.18,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-08-21,104.58,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-08-22,55.8,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-08-23,58.34,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-08-24,107.59,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-08-25,102.11,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-08-26,106.38,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-08-27,98.28,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-08-28,110.39,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-08-29,57.22,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-08-30,60.66,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-08-31,106.64,2026-08,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-09-01,96.84,2026-09,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-09-02,97.57,2026-09,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-09-03,97.33,2026-09,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-09-04,91.68,2026-09,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-09-05,53.96,2026-09,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-09-06,53.81,2026-09,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-09-07,89.83,2026-09,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-09-08,96.47,2026-09,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-09-09,91.07,2026-09,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-09-10,89.48,2026-09,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-09-11,91.24,2026-09,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-09-12,51.88,2026-09,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-09-13,51.34,2026-09,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-09-14,92.52,2026-09,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-09-15,96.02,2026-09,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-09-16,93.71,2026-09,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-09-17,89.33,2026-09,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-09-18,94.23,2026-09,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-09-19,48.92,2026-09,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-09-20,53.46,2026-09,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-09-21,97.82,2026-09,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-09-22,96.3,2026-09,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-09-23,96.54,2026-09,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-09-24,95.06,2026-09,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-09-25,96.1,2026-09,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-09-26,51.9,2026-09,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-09-27,48.5,2026-09,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-09-28,91.39,2026-09,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-09-29,95.38,2026-09,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R06,2026-09-30,88.78,2026-09,Computer Lab,Academic Block,80,1.2,7.0,6.5,9
+R07,2026-08-01,127.14,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-08-02,130.99,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-08-03,137.0,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-08-04,140.46,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-08-05,126.66483333333333,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-08-06,146.84,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-08-07,146.67,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-08-08,130.35,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-08-09,121.82,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-08-10,153.48,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-08-11,145.69,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-08-12,147.91,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-08-13,139.43,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-08-14,145.55,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-08-15,117.44,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-08-16,127.04,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-08-17,142.5,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-08-18,141.24,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-08-19,137.4,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-08-20,147.02,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-08-21,150.41,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-08-22,118.58,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-08-23,120.52,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-08-24,146.12,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-08-25,142.91,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-08-26,153.65,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-08-27,139.97,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-08-28,149.71,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-08-29,116.31,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-08-30,125.16,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-08-31,145.05,2026-08,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-09-01,118.53,2026-09,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-09-02,124.12,2026-09,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-09-03,125.41,2026-09,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-09-04,126.52,2026-09,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-09-05,107.76,2026-09,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-09-06,97.68,2026-09,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-09-07,119.87,2026-09,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-09-08,115.04,2026-09,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-09-09,120.2,2026-09,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-09-10,114.82,2026-09,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-09-11,125.2,2026-09,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-09-12,101.88,2026-09,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-09-13,106.36,2026-09,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-09-14,121.7,2026-09,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-09-15,112.49,2026-09,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-09-16,117.84,2026-09,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-09-17,117.74,2026-09,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-09-18,115.57,2026-09,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-09-19,97.47,2026-09,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-09-20,103.04,2026-09,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-09-21,114.28,2026-09,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-09-22,126.6,2026-09,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-09-23,119.42,2026-09,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-09-24,125.01,2026-09,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-09-25,122.89,2026-09,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-09-26,100.24,2026-09,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-09-27,103.12,2026-09,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-09-28,121.76,2026-09,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-09-29,117.45,2026-09,Library,Academic Block,200,3.0,14.0,1.5,10
+R07,2026-09-30,125.52,2026-09,Library,Academic Block,200,3.0,14.0,1.5,10
+R08,2026-08-01,44.25,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-08-02,46.46,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-08-03,68.83,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-08-04,67.68,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-08-05,65.87,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-08-06,66.9,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-08-07,62.9,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-08-08,47.91,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-08-09,44.06,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-08-10,66.18,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-08-11,64.73,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-08-12,68.23,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-08-13,64.04,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-08-14,64.83,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-08-15,46.39,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-08-16,45.42,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-08-17,69.46,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-08-18,68.0,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-08-19,69.06,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-08-20,65.45,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-08-21,63.65,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-08-22,48.06,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-08-23,44.8,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-08-24,67.72,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-08-25,65.02,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-08-26,68.5,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-08-27,65.5,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-08-28,68.63,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-08-29,45.7,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-08-30,44.43,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-08-31,68.15,2026-08,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-09-01,59.59,2026-09,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-09-02,55.88,2026-09,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-09-03,56.86,2026-09,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-09-04,60.85,2026-09,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-09-05,40.06,2026-09,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-09-06,42.62,2026-09,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-09-07,58.1,2026-09,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-09-08,56.0,2026-09,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-09-09,59.38,2026-09,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-09-10,56.63,2026-09,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-09-11,61.81,2026-09,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-09-12,41.25,2026-09,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-09-13,39.09,2026-09,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-09-14,57.04,2026-09,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-09-15,56.936166666666665,2026-09,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-09-16,57.8,2026-09,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-09-17,55.13,2026-09,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-09-18,60.01,2026-09,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-09-19,41.8,2026-09,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-09-20,40.14,2026-09,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-09-21,59.75,2026-09,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-09-22,61.46,2026-09,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-09-23,61.36,2026-09,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-09-24,60.93,2026-09,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-09-25,61.67,2026-09,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-09-26,41.77,2026-09,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-09-27,41.17,2026-09,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-09-28,56.46,2026-09,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-09-29,57.45,2026-09,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
+R08,2026-09-30,57.3,2026-09,Cafeteria,Academic Block,90,1.0,6.0,5.0,7
